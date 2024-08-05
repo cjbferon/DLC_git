@@ -1,0 +1,141 @@
+    # Project definitions (do not edit)
+Task: EPM_git
+scorer: CF
+date: Jul18
+multianimalproject: true
+identity: false
+
+    # Project path (change when moving around)
+project_path: /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-03-05T112708508-EPM-B18-1-MG.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-03-05T113744732-EPM-B18-1-MD.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-03-14T190033900-1T-EPM-B20-1-MD.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-04-09T124409877-1T-EPM-2798G.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-03-12T122545356-1T-EPM-M19-MG.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-03-12T130528120-1T-EPM-M13-MD.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-03-14T185218259-1T-EPM-B20-1-MG.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-04-22T143004742-1T-EPM-1516D.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-04-22T151135898-1T-EPM-0825G.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-03-12T132728426-1T-EPM-P12-MG.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-03-12T133612692-1T-EPM-P12-MD.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-04-09T120808636-1T-EPM-2790D.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-04-09T121559340-1T-EPM-2791G.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-04-09T123136953-1T-EPM-2797D.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-03-14T183217950-1T-EPM-B20-2-MG.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-03-14T183959168-1T-EPM-B20-2-MD.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-04-22T145957101-1T-EPM-1920G.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-03-12T123611012-1T-EPM-M19-MD.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-03-14T181001151-1T-EPM-B17-MG.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-03-14T181822390-1T-EPM-B17-MD.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-04-22T162154202-1T-EPM-0825D.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-04-09T114211002-1T-EPM-2779D.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-04-09T115248289-1T-EPM-2780G.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-04-22T143844540-1T-EPM-1516G.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-04-22T145153949-1T-EPM-1920D.avi:
+    crop: 0, 561, 0, 421
+  /home/cferon/Data/Data_en_cours/Test_DLC/EPM_git-CF-2024-07-18/videos/12024-03-12T125721029-1T-EPM-M13-MG.avi:
+    crop: 0, 561, 0, 421
+individuals:
+- mouse1
+- dispo
+uniquebodyparts:
+- extR
+- extL
+- extT
+- extB
+- intR
+- intL
+- intT
+- intB
+multianimalbodyparts:
+- nose
+- lEye
+- rEye
+- back
+- tail1
+- tail2
+bodyparts: MULTI!
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 20
+
+    # Plotting configuration
+skeleton:
+- - nose
+  - lEye
+- - nose
+  - rEye
+- - lEye
+  - rEye
+- - nose
+  - back
+- - back
+  - tail1
+- - tail1
+  - tail2
+skeleton_color: black
+pcutoff: 0.6
+dotsize: 5
+alphavalue: 0.7
+colormap: rainbow
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 0
+default_net_type: dlcrnet_ms5
+default_augmenter: multi-animal-imgaug
+default_track_method: ellipse
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
+'0': extL
+'1': extR
+'2': extT
+'3': extB
+'4': intL
+'5': intR
+'6': intT
+'7': intB
